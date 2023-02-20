@@ -8,7 +8,7 @@ Aplicación web
 
 ##2. Ejecucion
 
-- Clonar o descargar el repositorio
+- Clonar o descargar el repositorio: ```paginaweb_school_v01 (1).zip```
 - Abrir el terminal
 - Ejecutar el comando `npm i express mongoose connect-flash morgan passport passport-local bcrypt`
 - En otra consola para inicializar el servicio de mongo ejecutar: ```npm run dev```
